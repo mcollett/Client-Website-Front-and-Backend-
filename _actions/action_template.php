@@ -1,0 +1,1 @@
+<?php include('../_sql/sqlcon.php'); ?>

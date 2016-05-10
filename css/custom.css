@@ -1,0 +1,66 @@
+/* Add here all your CSS customizations */
+.progress-bar-deathknight {
+  background-color: #C41F3B;
+}
+.progress-bar-Druid {
+  background-color: #FF7D0A;
+}
+.progress-bar-Hunter {
+  background-color: #ABD473;
+}
+.progress-bar-Mage {
+  background-color: #69CCF0;
+}
+.progress-bar-Monk {
+  background-color: #00FF96;
+}
+.progress-bar-Paladin {
+  background-color: #F58CBA;
+}
+.progress-bar-Priest {
+  background-color: #FFFFFF;
+}
+.progress-bar-Rogue {
+  background-color: #FFF569;
+}
+.progress-bar-Shaman {
+  background-color: #0070DE;
+}
+.progress-bar-Warlock {
+  background-color: #9482C9;
+}
+.progress-bar-Warrior {
+  background-color: #C79C6E;
+}
+
+.progress-bar-Alliance {
+  background-color: #46C8DF;
+}
+.progress-bar-Horde {
+  background-color: #DF4646;
+}
+
+.progress-bar-Pilot {
+  background-color: #DFBC46;
+}
+.progress-bar-Self {
+  background-color: #DF9346;
+}
+
+.progress-bar-US {
+  background-color: #94FDF6;
+}
+.progress-bar-EU {
+  background-color: #D194FD;
+}
+
+div.shop .quantity .discount {
+	border: 1px solid #CCC;
+	box-shadow: none;
+	float: left;
+	height: 40px;
+	padding: 0 39px;
+	text-align: center;
+	width: 125px;
+	font-size: 1em;
+}
